@@ -3,4 +3,4 @@ This is my first repo
 
 Sam is me,
 I code, game and read.. 
-Another addition
+Another addition More details 
